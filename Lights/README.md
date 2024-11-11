@@ -12,6 +12,22 @@ Scenes containing different light types.
 
 - [KHR_lights_punctual](https://github.com/KhronosGroup/glTF/tree/main/extensions/2.0/Khronos/KHR_lights_punctual)
 
-## License Information
+## Legal
 
-(C) 2022, Andreas Atteneder. CC-BY 4.0 International https://creativecommons.org/licenses/by/4.0/. 
+Model: *Lights Directional*
+
+Attribution notice for the files directly associated with the above-referenced model in this directory tree, including all text, image and binary files.
+
+&copy; 2022, Andreas Atteneder. CC-BY 4.0 International <https://creativecommons.org/licenses/by/4.0/>.
+
+Model: *Lights Point*
+
+Attribution notice for the files directly associated with the above-referenced model in this directory tree, including all text, image and binary files.
+
+&copy; 2022, Andreas Atteneder. CC-BY 4.0 International <https://creativecommons.org/licenses/by/4.0/>.
+
+Model: *Lights Spot*
+
+Attribution notice for the files directly associated with the above-referenced model in this directory tree, including all text, image and binary files.
+
+&copy; 2022, Andreas Atteneder. CC-BY 4.0 International <https://creativecommons.org/licenses/by/4.0/>.

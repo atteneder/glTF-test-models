@@ -1,4 +1,4 @@
-# RootNodeCount
+# Root Node Count
 
 ## Description
 
@@ -18,6 +18,10 @@ When loading a glTF into a hierarchical node structure one can create a dedicate
 
 Animation clips are global, but assigned to nodes in glTF. Some animation systems assign an animation system/component per scene though. An animation clip might not be valid on all scenes, so this might cause problems. The `AllScenes.gltf` allows you to test this.
 
-## License Information
+## Legal
 
-(C) 2022, Andreas Atteneder. CC-BY 4.0 International https://creativecommons.org/licenses/by/4.0/. 
+Model: *Root Node Count*
+
+Attribution notice for the files directly associated with the above-referenced model in this directory tree, including all text, image and binary files.
+
+&copy; 2022, Andreas Atteneder. CC-BY 4.0 International <https://creativecommons.org/licenses/by/4.0/>.

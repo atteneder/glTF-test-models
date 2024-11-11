@@ -1,4 +1,4 @@
-# ColorSpace
+# Color Space
 
 ## Description
 
@@ -14,6 +14,10 @@ The colors are crafted in a way that they are not gray (have a color), but when 
 
 There are variants for PBR Metallic/Roughness and Unlit shaders.
 
-## License Information
+## Legal
 
-(C) 2022, Andreas Atteneder. CC-BY 4.0 International https://creativecommons.org/licenses/by/4.0/. 
+Model: *Color Space*
+
+Attribution notice for the files directly associated with the above-referenced model in this directory tree, including all text, image and binary files.
+
+&copy; 2022, Andreas Atteneder. CC-BY 4.0 International <https://creativecommons.org/licenses/by/4.0/>.
